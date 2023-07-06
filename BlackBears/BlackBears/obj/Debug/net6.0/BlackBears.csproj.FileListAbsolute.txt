@@ -1,0 +1,15 @@
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\bin\Debug\net6.0\BlackBears.exe
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\bin\Debug\net6.0\BlackBears.deps.json
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\bin\Debug\net6.0\BlackBears.runtimeconfig.json
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\bin\Debug\net6.0\BlackBears.dll
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\bin\Debug\net6.0\BlackBears.pdb
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\obj\Debug\net6.0\BlackBears.csproj.AssemblyReference.cache
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\obj\Debug\net6.0\BlackBears.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\obj\Debug\net6.0\BlackBears.AssemblyInfoInputs.cache
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\obj\Debug\net6.0\BlackBears.AssemblyInfo.cs
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\obj\Debug\net6.0\BlackBears.csproj.CoreCompileInputs.cache
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\obj\Debug\net6.0\BlackBears.dll
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\obj\Debug\net6.0\refint\BlackBears.dll
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\obj\Debug\net6.0\BlackBears.pdb
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\obj\Debug\net6.0\BlackBears.genruntimeconfig.cache
+C:\Users\Андрей.ANDREY-PC\Desktop\BlackBears\BlackBears\obj\Debug\net6.0\ref\BlackBears.dll
